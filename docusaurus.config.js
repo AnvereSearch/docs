@@ -12,9 +12,9 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'Anvere', // Usually your GitHub org/user name.
-  projectName: 'anvere-docs', // Usually your repo name.
+  favicon: 'img/logo.png',
+  organizationName: 'AnvereSearch', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
 
   presets: [
     [
@@ -45,8 +45,8 @@ const config = {
       navbar: {
         title: 'Anvere',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Anvere Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
